@@ -15,7 +15,7 @@ public class ExampleResourceTest {
           .when().get("/hello")
           .then()
              .statusCode(200)
-             .body(is("Hello RESTEasy Reactive"));
+             .body(is("Hello from RESTEasy Reactive"));
     }
 
 }
