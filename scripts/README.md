@@ -60,3 +60,12 @@ OK: POST submitted
 SUCCESS: Found todo on page -> Hello Mike
 Done.
 ```
+
+
+Prompts
+
+```bash
+Q: add a local java unit test for the renarde Todos app
+Q: can you try continuous testing with local-quarkus mcp
+Q: keep CT running and auto-run on file changes
+```
